@@ -1,0 +1,68 @@
+.India{
+    background-image: url(../images/breadcrumb_bg.png);
+    background-size: cover;
+    padding: 2rem 2rem 2.4rem 74px;
+  }
+  .India a{
+    text-decoration: none;
+    color: #fff;
+    text-align: center;
+  }
+  .India h1{
+    font-size: 50px;
+    font-weight: 400;
+    text-align: center;
+  }
+  .India h3{
+    text-align: center;
+  }
+  .India a:hover{
+    color: green;
+  }
+  
+  #circle-shape-example h1 { 
+    font-weight: 500;
+    padding: 20px;
+  }
+  #circle-shape-example { 
+    font-family: Open Sans, sans-serif; 
+    margin: 3rem;
+    padding: 20px; 
+  }
+  #circle-shape h1{
+    font-weight: 500;
+    padding: 20px 20px 0;
+  }
+  #circle-shape { 
+    font-family: Open Sans, sans-serif; 
+    margin: 3rem;
+    padding: 20px; 
+  }
+  #circle-shape-example p { 
+    text-align: justify;
+    line-height: 1.8; 
+  }
+  #circle-shape p { 
+    line-height: 1.8; 
+    text-align: justify;
+    padding: 0 20px;
+  }
+  #circle-shape-example .curve { 
+    width: 38%; height: auto;
+    min-width: 150px;
+    float: left;
+    margin-right:2rem; 
+  }
+  
+  #circle-shape .curve { 
+    width: 38%; height: auto;
+    min-width: 150px;
+    float: right;
+    margin-left:2rem;
+  }
+footer .row{
+  background-color: #000;
+  color: #fff;
+  padding: 13px;
+  text-align: center;
+}
